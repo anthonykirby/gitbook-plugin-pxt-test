@@ -1,0 +1,8 @@
+{
+  "plugins": [ "pxt" ],
+  "pluginsConfig": {
+    "pxt": {
+      "base": "makecode.microbit.org"
+    }
+  }
+}

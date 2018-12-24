@@ -1,0 +1,4 @@
+package-lock.json
+node_modules
+
+# NB _book is deliberately included; as a demonstation of a statically generated site
