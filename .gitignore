@@ -1,4 +1,4 @@
 package-lock.json
 node_modules
+_book
 
-# NB _book is deliberately included; as a demonstation of a statically generated site

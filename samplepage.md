@@ -19,4 +19,4 @@ You'll get this if you use the page navigation to get to this page (i.e. click _
 
 #### Environment
 
-This was tested on Firefox & Chrome (on Linux), both using `gitbook serve` and rendering to a static site via `gitbook build` and serving with Apache.
+This test was tested on Firefox & Chrome (on Linux), both using `gitbook serve` and rendering to a static site via `gitbook build` and serving with Apache.  Similar behaviour has been observed with IE on Windows.
